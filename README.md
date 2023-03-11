@@ -21,10 +21,12 @@ Bibliotecas Streamlit, Pandas e scikit-learn
 3. Execute o seguinte comando para instalar as dependências necessárias:
 
 '''
+
 pip install streamlit pandas scikit-learn
 '''
 * Em seguida, execute o seguinte comando para executar o aplicativo:
 '''
+
 streamlit run iris_app.py
 '''
 ## Sobre o conjunto de dados Iris
