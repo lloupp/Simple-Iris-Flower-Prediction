@@ -1,7 +1,7 @@
-Simple Iris Flower Prediction App
-Este é um aplicativo simples de previsão de flores Iris que utiliza a biblioteca Streamlit para criar uma interface gráfica do usuário para prever o tipo de flor de acordo com as entradas do usuário.
+#Simple Iris Flower Prediction App#
+Este é um aplicativo simples de previsão de **flores Iris** que utiliza a biblioteca Streamlit para criar uma interface gráfica do usuário para prever o tipo de flor de acordo com as entradas do usuário.
 
-Como utilizar o aplicativo
+#Como utilizar o aplicativo#
 O usuário pode selecionar as características da flor, incluindo o comprimento e a largura da sépala e do pétala, deslizando os controles deslizantes na barra lateral. As características selecionadas serão exibidas na seção "User Input parameters".
 
 Em seguida, o aplicativo utiliza um modelo de classificação de floresta aleatória (Random Forest Classifier) treinado com o conjunto de dados Iris, disponível na biblioteca de datasets do scikit-learn, para prever o tipo de flor com base nas características fornecidas pelo usuário.
