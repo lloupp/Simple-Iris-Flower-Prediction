@@ -20,15 +20,14 @@ Bibliotecas Streamlit, Pandas e scikit-learn
 2. Abra um terminal e navegue até o diretório do aplicativo.
 3. Execute o seguinte comando para instalar as dependências necessárias:
 
-'''
-
+```
 pip install streamlit pandas scikit-learn
-'''
+```
 * Em seguida, execute o seguinte comando para executar o aplicativo:
-'''
 
+```
 streamlit run iris_app.py
-'''
+```
 ## Sobre o conjunto de dados Iris
 O conjunto de dados Iris é um dos conjuntos de dados mais populares em aprendizado de máquina e classificação. Ele consiste em 150 amostras de flores Iris com medidas de comprimento e largura da sépala e do pétala. Cada amostra é rotulada com uma das três espécies de flores Iris: Iris setosa, Iris virginica ou Iris versicolor. O conjunto de dados é frequentemente utilizado para fins de aprendizado de máquina de classificação, incluindo a previsão de espécies de flores Iris com base em suas características.
 ## Sobre o modelo de classificação de floresta aleatória
